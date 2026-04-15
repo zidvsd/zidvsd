@@ -14,4 +14,4 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,figma,git,postman&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,figma,git,postman&perline=14)](https://skillicons.dev)
